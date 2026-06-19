@@ -84,7 +84,7 @@ Visualization:
 
 ## Author
 
-Saujanya Ch
+**Saujanya Ch**
 
 B.Tech Electronics & Communication Engineering
 
